@@ -1,2 +1,3 @@
-# mini-recipe-manager-b60c
-Automated issue comment bot repository
+# Mini Recipe Manager B60C
+
+Automated issue comment bot repository.
